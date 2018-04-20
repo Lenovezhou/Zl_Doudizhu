@@ -1,0 +1,6 @@
+D:\VSProject\Zl_Doudizhu\GameServer\AhpilyServer\bin\Debug\AhpilyServer.dll
+D:\VSProject\Zl_Doudizhu\GameServer\AhpilyServer\bin\Debug\AhpilyServer.pdb
+D:\VSProject\Zl_Doudizhu\GameServer\AhpilyServer\obj\Debug\AhpilyServer.csprojResolveAssemblyReference.cache
+D:\VSProject\Zl_Doudizhu\GameServer\AhpilyServer\obj\Debug\AhpilyServer.csproj.CoreCompileInputs.cache
+D:\VSProject\Zl_Doudizhu\GameServer\AhpilyServer\obj\Debug\AhpilyServer.dll
+D:\VSProject\Zl_Doudizhu\GameServer\AhpilyServer\obj\Debug\AhpilyServer.pdb

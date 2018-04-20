@@ -1,0 +1,10 @@
+D:\VSProject\Zl_Doudizhu\GameServer\GameServer\bin\Debug\GameServer.exe.config
+D:\VSProject\Zl_Doudizhu\GameServer\GameServer\bin\Debug\GameServer.exe
+D:\VSProject\Zl_Doudizhu\GameServer\GameServer\bin\Debug\GameServer.pdb
+D:\VSProject\Zl_Doudizhu\GameServer\GameServer\bin\Debug\AhpilyServer.dll
+D:\VSProject\Zl_Doudizhu\GameServer\GameServer\bin\Debug\AhpilyServer.pdb
+D:\VSProject\Zl_Doudizhu\GameServer\GameServer\obj\Debug\GameServer.csprojResolveAssemblyReference.cache
+D:\VSProject\Zl_Doudizhu\GameServer\GameServer\obj\Debug\GameServer.csproj.CoreCompileInputs.cache
+D:\VSProject\Zl_Doudizhu\GameServer\GameServer\obj\Debug\GameServer.csproj.CopyComplete
+D:\VSProject\Zl_Doudizhu\GameServer\GameServer\obj\Debug\GameServer.exe
+D:\VSProject\Zl_Doudizhu\GameServer\GameServer\obj\Debug\GameServer.pdb
